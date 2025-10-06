@@ -1,7 +1,7 @@
 .bgi{
     margin: 0;
     height:100vh;
-    background-image: url("images/hero.jpg");
+    background-image: url("images/hero.JPG");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -105,4 +105,5 @@ body{
 /*crafts & arts*/
 .arts-item{
     color:aliceblue;
+
 }
